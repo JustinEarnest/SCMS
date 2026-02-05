@@ -1,0 +1,7 @@
+node_modules
+.env
+mongodb_data/
+.DS_Store
+dist/
+build/
+.vscode/
